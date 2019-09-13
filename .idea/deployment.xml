@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="keithbsmithme">
+    <serverData>
+      <paths name="keithbsmithme">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/keithbsmith/python" local="$PROJECT_DIR$" web="/python" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
